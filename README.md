@@ -1,2 +1,2 @@
 # tutorial
-Learning fun DS and ML code
+Learning DS and ML code
